@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">ModernLogin</string>
+    <string name="app_name2">Custumor Details</string>
+    <string name="app_name3">Sales entry</string>
+    <string-array name="items">
+
+        <item>Choisissez l\'une des elements</item>
+        <item>Admin</item>
+        <item>User</item>
+    </string-array>
+    <string name="open">open</string>
+    <string name="close">close</string>
+    <string name="login_email_hint">Email</string>
+    <string name="login_password_hint">Password</string>
+    <string name="title_activity_main">Main</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="welcome">"Welcome !"</string>
+    <string name="invalid_username">Not a valid username</string>
+    <string name="invalid_password">Password must be >5 characters</string>
+    <string name="login_failed">"Login failed"</string>
+    <string name="facebook_app_id">329881195699847</string>
+    <string name="select">Product name</string>
+    <string name="select2">Vendor name</string>
+    <string name="select3">Type of payment</string>
+    <string name="select4">price</string>
+    <string name="fb_login_protocol_scheme">fb329881195699847</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

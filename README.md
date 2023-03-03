@@ -13,6 +13,6 @@ Overall, this inventory management application developed using  Java with the he
 <h1>Technologies Used</h1>
 The inventory management mobile app is built using the following technologies:
 
-Java
-Android Studio
-SQLite
+Java<br>
+Android Studio<br><br>
+SQLite<br>

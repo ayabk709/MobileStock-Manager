@@ -1,6 +1,8 @@
+
 This inventory management application is a mobile app designed to help businesses or individuals track and manage their inventory easily and efficiently. This application provides users with a comprehensive solution to monitor their inventory levels, receive alerts when items are low, and order new stock automatically when needed.
 
-The application allows users to scan barcodes or QR codes to quickly identify products, update inventory levels, and view information about each item, such as its name, quantity, and price. The app also supports multiple warehouses or locations, enabling users to track inventory across different sites and transfer stock between them.
+<h1>Features</h1>
+<p>The application allows users to scan barcodes or QR codes to quickly identify products, update inventory levels, and view information about each item, such as its name, quantity, and price. The app also supports multiple warehouses or locations, enabling users to track inventory across different sites and transfer stock between them.<p>
 
 The app features a user-friendly interface that is easy to navigate, allowing users to create and manage their inventory lists effortlessly. The app also includes customizable alerts and notifications, which can be set up to send reminders when inventory levels are running low or when items are out of stock.
 

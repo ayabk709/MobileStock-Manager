@@ -7,3 +7,10 @@ The app features a user-friendly interface that is easy to navigate, allowing us
 The app also generates reports, which provide users with detailed insights into their inventory levels, sales, and purchases. This allows users to make informed decisions and adjust their inventory management strategies accordingly.
 
 Overall, this inventory management application developed using  Java with the help of Android Studio is a powerful tool for businesses and individuals to manage their inventory more efficiently, reduce waste, and improve their bottom line.
+
+<h1>Technologies Used</h1>
+The inventory management mobile app is built using the following technologies:
+
+Java
+Android Studio
+SQLite

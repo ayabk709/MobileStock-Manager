@@ -1,4 +1,4 @@
-
+<h1>mobileStock-manager</h1>
 This inventory management application is a mobile app designed to help businesses or individuals track and manage their inventory easily and efficiently. This application provides users with a comprehensive solution to monitor their inventory levels, receive alerts when items are low, and order new stock automatically when needed.
 
 <h1>Features</h1>
